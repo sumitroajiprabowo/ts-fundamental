@@ -15,13 +15,13 @@
 */
 
 /* Number in TypeScript */
-const numbers1: number = 10;
+let numbers1: number = 10;
 /* or like this */
-const numbers2 = 3;
-const numbers3 = 4.5;
-const numbers4 = 5.5;
-const number5 = -3;
-const number6 = -4;
+let numbers2 = 3;
+let numbers3 = 4.5;
+let numbers4 = 5.5;
+let number5 = -3;
+let number6 = -4;
 
 /* Check the type of number */
 console.log(typeof numbers1); // number
