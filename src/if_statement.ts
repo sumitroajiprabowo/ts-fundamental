@@ -16,14 +16,20 @@ function addNumbers(number: number, number2: number, showResult: boolean, phrase
     const result = number + number2;
     if (showResult) {
         console.log(phrase + result);
+        return result;
     } else {
         return result;
     }
 }
 
-let numberResult: number;
-numberResult = addNumbers(9, 2.8, true, "Result is: ");
+let number1: number;
+number1 = 5;
+const number3 = 2.8;
+const printResult = true;
+const resultPhrase = "Result is: ";
 
-let numberResult2: number;
-numberResult2 = addNumbers(5, 2.8, false, "Result is: ");
-console.log(numberResult2);
+addNumbers(number1, number3, printResult, resultPhrase);
+
+if (typeof number1 === "number") {
+    console.log("number1 is number");
+}
