@@ -1,4 +1,4 @@
-const person: {
+const informationPerson: {
     name: string;
     age: number;
 } = {
@@ -6,7 +6,7 @@ const person: {
     age: 30,
 }
 
-console.log(person.name);
+console.log(informationPerson.name);
 
 const student = {
     name: 'Dawu Merdeka',

@@ -1,11 +1,11 @@
 /* Unknown Type */
 let userInput: unknown;
-let userName: string;
+let email: string;
 
 userInput = 5;
 userInput = 'Dawu';
 if (typeof userInput === 'string') {
-    userName = userInput;
+    email = userInput;
 } else {
-    userName = 'Dawu';
+    email = 'dawu@anakdesa.id';
 }
