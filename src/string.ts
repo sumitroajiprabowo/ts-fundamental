@@ -5,8 +5,8 @@
 let myName = "John Doe";
 
 /*Explicit Type */
-let firstName: string = "Andrew";
-let lastName: string = "Smith";
+let firstMyName: string = "Andrew";
+let lastMyName: string = "Smith";
 
 /* Check the type of string */
 console.log(typeof myName); // string
@@ -14,11 +14,11 @@ console.log(typeof myName); // string
 console.log(myName);
 
 /* String Concatenation */
-let fullName = firstName + " " + lastName;
+let fullName = firstMyName + " " + lastMyName;
 console.log(fullName);
 
 /* String Interpolation */
-let fullName2 = `${firstName} ${lastName}`;
+let fullName2 = `${firstMyName} ${lastMyName}`;
 console.log(fullName2);
 
 /* String Length */

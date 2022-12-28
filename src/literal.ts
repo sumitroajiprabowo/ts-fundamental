@@ -4,3 +4,8 @@ function printStatusCode2(code: 404 | 200 | 201) {
 }
 
 printStatusCode2(200);
+
+/* More Example */
+const myFullName = 'Dawu Merdeka';
+const greetingSayHello = `Hello, my name is ${myFullName}.`;
+console.log(greetingSayHello);
