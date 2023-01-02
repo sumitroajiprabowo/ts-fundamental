@@ -1,1 +1,0 @@
-{"version":3,"file":"literal.js","sourceRoot":"","sources":["../../src/basic/literal.ts"],"names":[],"mappings":";AACA,SAAS,gBAAgB,CAAC,IAAqB;IAC3C,OAAO,CAAC,GAAG,CAAC,uCAAuC,IAAI,GAAG,CAAC,CAAA;AAC/D,CAAC;AAED,gBAAgB,CAAC,GAAG,CAAC,CAAC;AAGtB,MAAM,UAAU,GAAG,cAAc,CAAC;AAClC,MAAM,gBAAgB,GAAG,qBAAqB,UAAU,GAAG,CAAC;AAC5D,OAAO,CAAC,GAAG,CAAC,gBAAgB,CAAC,CAAC"}
