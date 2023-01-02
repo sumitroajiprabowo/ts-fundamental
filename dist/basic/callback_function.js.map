@@ -1,0 +1,1 @@
+{"version":3,"file":"callback_function.js","sourceRoot":"","sources":["../../src/basic/callback_function.ts"],"names":[],"mappings":";AACA,SAAS,YAAY,CAAC,EAAU,EAAE,EAAU,EAAE,EAAyB;IACnE,MAAM,MAAM,GAAG,EAAE,GAAG,EAAE,CAAC;IACvB,EAAE,CAAC,MAAM,CAAC,CAAC;AACf,CAAC;AAED,YAAY,CAAC,EAAE,EAAE,EAAE,EAAE,CAAC,MAAM,EAAE,EAAE;IAC5B,OAAO,CAAC,GAAG,CAAC,MAAM,CAAC,CAAC;AACxB,CAAC,CAAC,CAAC"}
